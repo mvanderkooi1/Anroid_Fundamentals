@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Anroid.iml" filepath="$PROJECT_DIR$/Anroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week-02/week-02.iml" filepath="$PROJECT_DIR$/week-02/week-02.iml" />
     </modules>
   </component>
 </project>
